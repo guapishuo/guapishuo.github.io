@@ -4,7 +4,7 @@
 /* Basic */
 
 	body {
-		background: #fff;
+		background: white;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -538,6 +538,7 @@
 
 			.image.fit img {
 				width: 100%;
+				
 			}
 
 		.image.avatar {
